@@ -8,3 +8,5 @@
 * git branch -M main
 * git push -u origin main
 * git status
+* git checkout -b copia
+* git branchgit status
